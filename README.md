@@ -37,7 +37,7 @@ You can use the following instruction in the root path of this repository to run
 bash scripts/SLAN.sh
 ```
 
-If you want to customize the training, you can modify the parameters in [`scripts/SLAN.sh`](./scripts/SLAN.sh) to adjust batch size, learning rate, mask rates, or other hyperparameters.
+If you want to customize the training, you can modify the parameters in [`scripts/SLAN.sh`](/scripts/SLAN.sh) to adjust batch size, learning rate, mask rates, or other hyperparameters.
 
 
 
